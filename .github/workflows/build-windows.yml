@@ -1,0 +1,70 @@
+name: Build The World Gate Windows Installer
+
+on:
+  workflow_dispatch:
+    inputs:
+      release_tag:
+        description: 'DRAFT app release tag, e.g. v1.3.1'
+        required: true
+        default: 'v1.3.1'
+
+permissions:
+  contents: write
+
+jobs:
+  package-windows:
+    runs-on: windows-latest
+    timeout-minutes: 60
+    steps:
+      - name: Check out release configuration
+        uses: actions/checkout@v4
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Download source from the draft release
+        shell: pwsh
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TAG: ${{ inputs.release_tag }}
+        run: |
+          if ($env:TAG -notmatch '^v\d+\.\d+\.\d+$') { throw 'Invalid release tag' }
+          $version = $env:TAG.Substring(1)
+          New-Item -ItemType Directory -Force -Path incoming | Out-Null
+          gh release download $env:TAG --pattern "The-World-Gate-v$version-COMPLETE-SOURCE.zip" --dir incoming
+          if (-not (Test-Path "incoming/The-World-Gate-v$version-COMPLETE-SOURCE.zip")) { throw 'Source ZIP missing from draft release' }
+          Expand-Archive -LiteralPath "incoming/The-World-Gate-v$version-COMPLETE-SOURCE.zip" -DestinationPath unpack -Force
+          if (-not (Test-Path "unpack/The-World-Gate-v$version/package.json")) { throw 'Unexpected source ZIP structure' }
+      - name: Install packages and run tests
+        shell: pwsh
+        env:
+          TAG: ${{ inputs.release_tag }}
+        run: |
+          $version = $env:TAG.Substring(1)
+          Push-Location "unpack/The-World-Gate-v$version"
+          try {
+            npm install --no-audit --no-fund
+            if ($LASTEXITCODE -ne 0) {throw 'npm install failed'}
+            npm test
+            if ($LASTEXITCODE -ne 0) {throw 'Tests failed'}
+          } finally {Pop-Location}
+      - name: Build installer and upload release assets
+        shell: pwsh
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TAG: ${{ inputs.release_tag }}
+        run: |
+          $version = $env:TAG.Substring(1)
+          $project = "unpack/The-World-Gate-v$version"
+          Push-Location $project
+          try {
+            npm run build:win
+            if ($LASTEXITCODE -ne 0){throw 'Installer build failed'}
+            $folder = 'dist/win-x64'
+            if (-not (Test-Path "$folder/latest.yml")){throw 'Windows update metadata latest.yml missing'}
+            $assets = @(Get-ChildItem -Path $folder -File | Where-Object {$_.Name -match '\.exe$|\.blockmap$|^latest\.yml$'} | ForEach-Object {$_.FullName})
+            if (@($assets | Where-Object {$_ -match '\.exe$'}).Count -lt 1) {throw 'Windows installer missing'}
+            gh release upload $env:TAG @assets --clobber
+            if ($LASTEXITCODE -ne 0){throw 'GitHub release upload failed'}
+          } finally {Pop-Location}
+          Write-Host 'Uploaded installer and update metadata to the DRAFT release. Test the EXE before publishing the release.'
