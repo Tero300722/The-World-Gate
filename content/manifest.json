@@ -1,0 +1,1093 @@
+{
+  "schema": 1,
+  "version": "58.0.0",
+  "files": [
+    {
+      "path": "assets/audio/echoes-cyberpunk.mp3",
+      "sha256": "0bcee28e1fdbb8624c5959a5b511da10870dbd448d3ce30934246b9d7e2208f7",
+      "size": 6024429,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-0bcee28e1fdbb8624c5959a5b511da10870dbd448d3ce30934246b9d7e2208f7"
+    },
+    {
+      "path": "assets/audio/echoes-fantasy-down-by-the-river.mp3",
+      "sha256": "1cace7603d14def1c96a44aeefaec6465252ea4141204c11d119f45a2f7b6ecc",
+      "size": 2050964,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-1cace7603d14def1c96a44aeefaec6465252ea4141204c11d119f45a2f7b6ecc"
+    },
+    {
+      "path": "assets/audio/echoes-pirate.mp3",
+      "sha256": "46d174be75e7b011b06ac090db60e207afbfda5946a193035662714f1f0574ae",
+      "size": 3374948,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-46d174be75e7b011b06ac090db60e207afbfda5946a193035662714f1f0574ae"
+    },
+    {
+      "path": "assets/audio/elden-ring.mp3",
+      "sha256": "a1040026b4f26703bb422fc12a2fc4496a81de27e080afeb7bd46010dbc9c7a7",
+      "size": 8019310,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-a1040026b4f26703bb422fc12a2fc4496a81de27e080afeb7bd46010dbc9c7a7"
+    },
+    {
+      "path": "assets/audio/grimwood-manor.mp3",
+      "sha256": "322e4f7c99d101ac80aa226a26453a9caf690c336ab1e614880c64f41eb1becf",
+      "size": 4210194,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-322e4f7c99d101ac80aa226a26453a9caf690c336ab1e614880c64f41eb1becf"
+    },
+    {
+      "path": "assets/audio/the-roots-remember.mp3",
+      "sha256": "02e63ba792b5d6146b73a9391068a416134fc5e97bf97b164af1d1f7ebd60b64",
+      "size": 4321122,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-02e63ba792b5d6146b73a9391068a416134fc5e97bf97b164af1d1f7ebd60b64"
+    },
+    {
+      "path": "assets/campaign-hero.webp",
+      "sha256": "06b5e63f8c7af51bc447b35bd4cccb3519bf1f9206938f41082d52dd7abca034",
+      "size": 319282,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-06b5e63f8c7af51bc447b35bd4cccb3519bf1f9206938f41082d52dd7abca034"
+    },
+    {
+      "path": "assets/carousel-arrow-left.png",
+      "sha256": "3efb446e20e582fce8ec1232c10cf1bf935654be8200919478987d011752cabe",
+      "size": 367,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-3efb446e20e582fce8ec1232c10cf1bf935654be8200919478987d011752cabe"
+    },
+    {
+      "path": "assets/carousel-arrow-right.png",
+      "sha256": "74d96000cf5ff2dc5f858e80bf104c9093fce53d503f221ca2a39c3bb3026637",
+      "size": 394,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-74d96000cf5ff2dc5f858e80bf104c9093fce53d503f221ca2a39c3bb3026637"
+    },
+    {
+      "path": "assets/characters/cards/leoric-everheart.webp",
+      "sha256": "11af769e874f8930aa40fe191857fb83f5fc69cc42377a5566bddcddd6c4b0ed",
+      "size": 171870,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-11af769e874f8930aa40fe191857fb83f5fc69cc42377a5566bddcddd6c4b0ed"
+    },
+    {
+      "path": "assets/characters/cards/unknown-adventurer.webp",
+      "sha256": "5eae89169c646693b97755fb290ab69f0ac22664a763905a70c329a4afb0b4a7",
+      "size": 63954,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-5eae89169c646693b97755fb290ab69f0ac22664a763905a70c329a4afb0b4a7"
+    },
+    {
+      "path": "assets/characters/full/leoric-everheart.webp",
+      "sha256": "9e76fe19184079a5cf6c8c06303dddb34e7db1228c66ed59b6747060d12f34d7",
+      "size": 239340,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-9e76fe19184079a5cf6c8c06303dddb34e7db1228c66ed59b6747060d12f34d7"
+    },
+    {
+      "path": "assets/characters/sheets/aurelius-tempestine-card.webp",
+      "sha256": "28a0537756275ab14f86895c96260fc8c8dd8241bd297d5f7ae7c402c6e4eb7b",
+      "size": 2030702,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-28a0537756275ab14f86895c96260fc8c8dd8241bd297d5f7ae7c402c6e4eb7b"
+    },
+    {
+      "path": "assets/characters/sheets/aurelius-tempestine-landscape.webp",
+      "sha256": "ed58cc70e13c6eac7e156b72dfc0904735bde824cf2bb94fd25004e70abac812",
+      "size": 2305632,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-ed58cc70e13c6eac7e156b72dfc0904735bde824cf2bb94fd25004e70abac812"
+    },
+    {
+      "path": "assets/characters/sheets/cassian-caelaris-card.webp",
+      "sha256": "c52e50930d1819143c612fb5466e6d0e81c625dc23ec6eb91bb559831ee9f016",
+      "size": 1888458,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-c52e50930d1819143c612fb5466e6d0e81c625dc23ec6eb91bb559831ee9f016"
+    },
+    {
+      "path": "assets/characters/sheets/cassian-caelaris-landscape.webp",
+      "sha256": "f9ec481cf12801c2175be1bdb4141c421fb99fcc3f2bdfbc97f3cee9eabf06b4",
+      "size": 2140928,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-f9ec481cf12801c2175be1bdb4141c421fb99fcc3f2bdfbc97f3cee9eabf06b4"
+    },
+    {
+      "path": "assets/characters/sheets/morvan-nyx-card.webp",
+      "sha256": "72cb01cd70ac036f537fb8476a2d75c3931c38dbd08f9030dd39ee32909b022d",
+      "size": 1821430,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-72cb01cd70ac036f537fb8476a2d75c3931c38dbd08f9030dd39ee32909b022d"
+    },
+    {
+      "path": "assets/characters/sheets/morvan-nyx-landscape.webp",
+      "sha256": "9bf0717bdf072baa8d3dab96fc3b26d1ea6c4d97447b639061801d263495dcef",
+      "size": 1863340,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-9bf0717bdf072baa8d3dab96fc3b26d1ea6c4d97447b639061801d263495dcef"
+    },
+    {
+      "path": "assets/characters/sheets/unknown-adventurer-landscape.webp",
+      "sha256": "0f3c8eaf8cc06d0ef563316ddeaac0f82a1caa1d191bc8937a3938eec0cb0d67",
+      "size": 1193716,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-0f3c8eaf8cc06d0ef563316ddeaac0f82a1caa1d191bc8937a3938eec0cb0d67"
+    },
+    {
+      "path": "assets/characters/sheets/vaeloryn-starsong-card.webp",
+      "sha256": "9f88c35d90963e03189bbfe37fa31990b4ae47006052010c7212ac11970a9648",
+      "size": 2268734,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-9f88c35d90963e03189bbfe37fa31990b4ae47006052010c7212ac11970a9648"
+    },
+    {
+      "path": "assets/characters/sheets/vaeloryn-starsong-landscape.webp",
+      "sha256": "48e8a0e7c0001a27dce85e48dc5b233de99c91bae6a289f6c65e9ad8a6fb024e",
+      "size": 2315084,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-48e8a0e7c0001a27dce85e48dc5b233de99c91bae6a289f6c65e9ad8a6fb024e"
+    },
+    {
+      "path": "assets/characters-dropdown-arrow.png",
+      "sha256": "02d8e76de389990f5a86515553c3455b7b5b711eee1b4e271ddc7fd7610e60d5",
+      "size": 3839,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-02d8e76de389990f5a86515553c3455b7b5b711eee1b4e271ddc7fd7610e60d5"
+    },
+    {
+      "path": "assets/echoes/characters/bob-d-smith-portrait.png",
+      "sha256": "272609c7da018226a834d1294c73974650a97913279a02eed86a30b003106773",
+      "size": 3416776,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-272609c7da018226a834d1294c73974650a97913279a02eed86a30b003106773"
+    },
+    {
+      "path": "assets/echoes/characters/captain-morgan-dreadwake-portrait.png",
+      "sha256": "8cce2bd04e71a40a0a80357fa9bfd9ca0189fbf74be4671addc85ef043e09af2",
+      "size": 3331390,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-8cce2bd04e71a40a0a80357fa9bfd9ca0189fbf74be4671addc85ef043e09af2"
+    },
+    {
+      "path": "assets/echoes/characters/dariel-belmont-portrait.png",
+      "sha256": "9e539cf46977c27e00c4cf66eeb018bc7eb450c833719c073d3a6c1e127d9f8e",
+      "size": 3061625,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-9e539cf46977c27e00c4cf66eeb018bc7eb450c833719c073d3a6c1e127d9f8e"
+    },
+    {
+      "path": "assets/echoes/characters/genesis-andromeda.png",
+      "sha256": "839e2d62342ae2a5533f71d4adf97cbcadc98c8d84bb7bd7183cff67dc4daa00",
+      "size": 2545609,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-839e2d62342ae2a5533f71d4adf97cbcadc98c8d84bb7bd7183cff67dc4daa00"
+    },
+    {
+      "path": "assets/echoes/characters/jack-vinland-portrait.png",
+      "sha256": "7cc1f054479c1fc329f4c94d71ab5c64ded2f1d20cff8bf6231f582d97ca3169",
+      "size": 2672289,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-7cc1f054479c1fc329f4c94d71ab5c64ded2f1d20cff8bf6231f582d97ca3169"
+    },
+    {
+      "path": "assets/echoes/characters/lyrielle-morwyn-cantorae.png",
+      "sha256": "4e8e3fa04c2e161d4e7be88593592720baed71e223fc609f966d55579a910d69",
+      "size": 3366734,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-4e8e3fa04c2e161d4e7be88593592720baed71e223fc609f966d55579a910d69"
+    },
+    {
+      "path": "assets/echoes/characters/ultimus-andromeda.png",
+      "sha256": "bf3c92a2bef2007d3ba7a2bc303189b2f73826feb20e6ce5bb815de7d1983145",
+      "size": 2289842,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-bf3c92a2bef2007d3ba7a2bc303189b2f73826feb20e6ce5bb815de7d1983145"
+    },
+    {
+      "path": "assets/echoes/echoes-premise-header.png",
+      "sha256": "2f5d357aea937ea244af080ad0c10906dd6f79beb4da4279d284b27ea88fcf28",
+      "size": 3424933,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-2f5d357aea937ea244af080ad0c10906dd6f79beb4da4279d284b27ea88fcf28"
+    },
+    {
+      "path": "assets/echoes/npcs/captain-mave-sparrow.png",
+      "sha256": "23fa4f61b1b21001eec1e04cd70be4cfd47f61d25cde2c6e97e58b4092327eea",
+      "size": 2000651,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-23fa4f61b1b21001eec1e04cd70be4cfd47f61d25cde2c6e97e58b4092327eea"
+    },
+    {
+      "path": "assets/echoes/npcs/eloir-valerium.png",
+      "sha256": "e3988e2423da1f707076cd68841def57917ebd02431f87cfcd65e372830b15bb",
+      "size": 2352152,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-e3988e2423da1f707076cd68841def57917ebd02431f87cfcd65e372830b15bb"
+    },
+    {
+      "path": "assets/echoes/npcs/isabella-palmer.png",
+      "sha256": "e6a4f976fdb54dfee9f7c4d7fcbd0fdc1469d84014addaa5391e972f356b9f22",
+      "size": 2153900,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-e6a4f976fdb54dfee9f7c4d7fcbd0fdc1469d84014addaa5391e972f356b9f22"
+    },
+    {
+      "path": "assets/echoes/npcs/ngake.png",
+      "sha256": "eead178b85dab4482b3cd1079d2d12c45ea01a4ee60f3dae1031d383d8166d75",
+      "size": 1826204,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-eead178b85dab4482b3cd1079d2d12c45ea01a4ee60f3dae1031d383d8166d75"
+    },
+    {
+      "path": "assets/echoes/npcs/ralf.png",
+      "sha256": "78a27444bc3f10384e725462ec05f286c60396d727132e63eac64e6b41b00c55",
+      "size": 1939942,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-78a27444bc3f10384e725462ec05f286c60396d727132e63eac64e6b41b00c55"
+    },
+    {
+      "path": "assets/echoes/npcs/sea-witch-and-stewart.png",
+      "sha256": "7098116c7dd57774d37f991b35871545a5c06c8b1d836e6d5bae611b802f62c9",
+      "size": 1920089,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-7098116c7dd57774d37f991b35871545a5c06c8b1d836e6d5bae611b802f62c9"
+    },
+    {
+      "path": "assets/echoes/npcs/valen-tissletops.png",
+      "sha256": "fdf05a0da8cda301edf1b50579c153d09d240f1fc3ebe757817e7dcb18cc3646",
+      "size": 2086514,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-fdf05a0da8cda301edf1b50579c153d09d240f1fc3ebe757817e7dcb18cc3646"
+    },
+    {
+      "path": "assets/echoes/npcs/winston-palmer.png",
+      "sha256": "a31c91719b18adee9d8e2c7a8b059719c9ebbd19cf00bd0f949a407da6fc1b49",
+      "size": 1729914,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-a31c91719b18adee9d8e2c7a8b059719c9ebbd19cf00bd0f949a407da6fc1b49"
+    },
+    {
+      "path": "assets/echoes/universes/cyberpunk.jpg",
+      "sha256": "3fd4f0b4052aaa310c56811cfa31413ebe0697cd5137fe192f4ed9e714e4abb1",
+      "size": 134794,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-3fd4f0b4052aaa310c56811cfa31413ebe0697cd5137fe192f4ed9e714e4abb1"
+    },
+    {
+      "path": "assets/echoes/universes/fantasy-canopy.svg",
+      "sha256": "fe7e86cc41c2de29ca66f28d4171067cf574f8fb1ce2105187fef59b28c42559",
+      "size": 1111,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-fe7e86cc41c2de29ca66f28d4171067cf574f8fb1ce2105187fef59b28c42559"
+    },
+    {
+      "path": "assets/echoes/universes/fantasy.jpg",
+      "sha256": "96929f6cf37b50ad1dbda3aa1069531f80f58c2d3a54c5fda5f794ffaf4a288e",
+      "size": 121066,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-96929f6cf37b50ad1dbda3aa1069531f80f58c2d3a54c5fda5f794ffaf4a288e"
+    },
+    {
+      "path": "assets/echoes/universes/pirate-chart.svg",
+      "sha256": "df364787b8f8401de5bae4844c9819f6a8085684503a70f095b777377f0c8335",
+      "size": 943,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-df364787b8f8401de5bae4844c9819f6a8085684503a70f095b777377f0c8335"
+    },
+    {
+      "path": "assets/echoes/universes/pirate.jpg",
+      "sha256": "e4e1989a7444681702dd8ad15bcdb5e35b5b1204c123d1ef5f16c214b4000aff",
+      "size": 51552,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-e4e1989a7444681702dd8ad15bcdb5e35b5b1204c123d1ef5f16c214b4000aff"
+    },
+    {
+      "path": "assets/elden/characters/sheets/corvan-nightbane-godly-card.webp",
+      "sha256": "0f064f5f2e7398f8c145bd0f9ce3c278df9825d9cba93a67ef0d95b572f55247",
+      "size": 2203044,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-0f064f5f2e7398f8c145bd0f9ce3c278df9825d9cba93a67ef0d95b572f55247"
+    },
+    {
+      "path": "assets/elden/characters/sheets/corvan-nightbane-godly.webp",
+      "sha256": "2c642e7f8e41f5cf7372fe2733eb316d28b4b20b0e60b73d9550be7c49bf8457",
+      "size": 2048006,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-2c642e7f8e41f5cf7372fe2733eb316d28b4b20b0e60b73d9550be7c49bf8457"
+    },
+    {
+      "path": "assets/elden/characters/sheets/corvan-nightbane-original-card.webp",
+      "sha256": "cf74e5c7c935c3d13a60de91b60832f4a8484c48fff5b4e334e32b445351b870",
+      "size": 2035436,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-cf74e5c7c935c3d13a60de91b60832f4a8484c48fff5b4e334e32b445351b870"
+    },
+    {
+      "path": "assets/elden/characters/sheets/corvan-nightbane-original.webp",
+      "sha256": "0e12d41fc1b3f3e702282060e7a872b5827096fc6b1850022a9e9ee33eb557e9",
+      "size": 1894244,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-0e12d41fc1b3f3e702282060e7a872b5827096fc6b1850022a9e9ee33eb557e9"
+    },
+    {
+      "path": "assets/elden/characters/sheets/morten-godly-card.webp",
+      "sha256": "7727cc3bafe2e240dcc706045f3a04ed4da390ffaed4c1f16e82f6ab75bfe061",
+      "size": 2082236,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-7727cc3bafe2e240dcc706045f3a04ed4da390ffaed4c1f16e82f6ab75bfe061"
+    },
+    {
+      "path": "assets/elden/characters/sheets/morten-godly.webp",
+      "sha256": "4a3f46578e182b4ac0c9e8764fb1df310268174e908a8a058626d146fb216de1",
+      "size": 2013596,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-4a3f46578e182b4ac0c9e8764fb1df310268174e908a8a058626d146fb216de1"
+    },
+    {
+      "path": "assets/elden/characters/sheets/morten-original-card.webp",
+      "sha256": "f2d763696b974cce4a2b82b2837008fc2a2402b0a2e9feecb4bd9eef78eb16dc",
+      "size": 1878856,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-f2d763696b974cce4a2b82b2837008fc2a2402b0a2e9feecb4bd9eef78eb16dc"
+    },
+    {
+      "path": "assets/elden/characters/sheets/morten-original.webp",
+      "sha256": "eb03b3d3703161debde81240286a903fd2712e27dc0d5113a656a09aa933c573",
+      "size": 1780442,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-eb03b3d3703161debde81240286a903fd2712e27dc0d5113a656a09aa933c573"
+    },
+    {
+      "path": "assets/elden/characters/sheets/ragnaurak-godly-card.webp",
+      "sha256": "5fef7bba8eb2a57e1676eca4b4810daedc0e83ec9f3bf2936edbd6e6f3ac431a",
+      "size": 2140686,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-5fef7bba8eb2a57e1676eca4b4810daedc0e83ec9f3bf2936edbd6e6f3ac431a"
+    },
+    {
+      "path": "assets/elden/characters/sheets/ragnaurak-godly.webp",
+      "sha256": "6338df32ea1ed232c9c2a720153c80a3dc8f38a445ac9c513138ee82a7cc2a19",
+      "size": 2131668,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-6338df32ea1ed232c9c2a720153c80a3dc8f38a445ac9c513138ee82a7cc2a19"
+    },
+    {
+      "path": "assets/elden/characters/sheets/ragnaurak-original-card.webp",
+      "sha256": "10b3883356179ba98f5ebf496486431cf98cc86251cd21430377a57146e8058c",
+      "size": 2070606,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-10b3883356179ba98f5ebf496486431cf98cc86251cd21430377a57146e8058c"
+    },
+    {
+      "path": "assets/elden/characters/sheets/ragnaurak-original.webp",
+      "sha256": "46d4526ca49b829065a83fbb2ec3418fb9a9255cc1f3e045339a7a1bbe598f21",
+      "size": 1833406,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-46d4526ca49b829065a83fbb2ec3418fb9a9255cc1f3e045339a7a1bbe598f21"
+    },
+    {
+      "path": "assets/elden/characters/sheets/shalashaska-drahaka-godly-card.webp",
+      "sha256": "b0c9bbea35c250fedd840ea227b087291c00c64c33ae2e5806b1654c3aeb9233",
+      "size": 2290676,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-b0c9bbea35c250fedd840ea227b087291c00c64c33ae2e5806b1654c3aeb9233"
+    },
+    {
+      "path": "assets/elden/characters/sheets/shalashaska-drahaka-godly.webp",
+      "sha256": "af8459c3c73527cb3a83db9d852269f4c6d9c44cb550c9d7098647054e007ab1",
+      "size": 2135634,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-af8459c3c73527cb3a83db9d852269f4c6d9c44cb550c9d7098647054e007ab1"
+    },
+    {
+      "path": "assets/elden/characters/sheets/shalashaska-drahaka-original-card.webp",
+      "sha256": "039a4e54d42e12f45368701740d01f873082a652ae4aaba36f7d53423dba4007",
+      "size": 2236692,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-039a4e54d42e12f45368701740d01f873082a652ae4aaba36f7d53423dba4007"
+    },
+    {
+      "path": "assets/elden/characters/sheets/shalashaska-drahaka-original.webp",
+      "sha256": "cb8d12fcebdbf885a2c8499547b64e1faf0e30cf6c3053226a500e0cb584fcdf",
+      "size": 1912100,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-cb8d12fcebdbf885a2c8499547b64e1faf0e30cf6c3053226a500e0cb584fcdf"
+    },
+    {
+      "path": "assets/elden/characters/sheets/slyren-godly-card.webp",
+      "sha256": "e7289250d6d32d90795470e8632de78355f0b2af255b4b143a52a8d8a727455d",
+      "size": 2254840,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-e7289250d6d32d90795470e8632de78355f0b2af255b4b143a52a8d8a727455d"
+    },
+    {
+      "path": "assets/elden/characters/sheets/slyren-godly.webp",
+      "sha256": "0367980f4a0285aea9d8bf5a3e176b492a6a0f84f60bc3377fa672960cc19d14",
+      "size": 1961292,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-0367980f4a0285aea9d8bf5a3e176b492a6a0f84f60bc3377fa672960cc19d14"
+    },
+    {
+      "path": "assets/elden/characters/sheets/slyren-original-card.webp",
+      "sha256": "a6ab28edd18e42de10164f2599cede845b7e153d1be29207a25724754f975e75",
+      "size": 1986084,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-a6ab28edd18e42de10164f2599cede845b7e153d1be29207a25724754f975e75"
+    },
+    {
+      "path": "assets/elden/characters/sheets/slyren-original.webp",
+      "sha256": "bfbfaba4fa66fca2de70a3b5a3cfeb9c1e642d6a98b2adaca6113055e5c0b690",
+      "size": 2263208,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-bfbfaba4fa66fca2de70a3b5a3cfeb9c1e642d6a98b2adaca6113055e5c0b690"
+    },
+    {
+      "path": "assets/elden/characters/sheets/son-goku-godly-card.webp",
+      "sha256": "c8782e2d59f6110b53214ff771acfee8e63d44e051619e946bda25fc69322925",
+      "size": 2110508,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-c8782e2d59f6110b53214ff771acfee8e63d44e051619e946bda25fc69322925"
+    },
+    {
+      "path": "assets/elden/characters/sheets/son-goku-godly.webp",
+      "sha256": "ff5a41ed0e97d4e3d812187ee68549802a76d39f5245ade33235ba632d85ca23",
+      "size": 2036488,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-ff5a41ed0e97d4e3d812187ee68549802a76d39f5245ade33235ba632d85ca23"
+    },
+    {
+      "path": "assets/elden/characters/sheets/son-goku-original-card.webp",
+      "sha256": "334934868a7d4e54f7bb06baefb43a6356e93d542ea1f4dbc47259f0b60239dd",
+      "size": 1957496,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-334934868a7d4e54f7bb06baefb43a6356e93d542ea1f4dbc47259f0b60239dd"
+    },
+    {
+      "path": "assets/elden/characters/sheets/son-goku-original.webp",
+      "sha256": "06a335f4b84c6d882ada9c226a4ddf74f225dd227512121c7d9d3b5b1cc7b81b",
+      "size": 1820276,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-06a335f4b84c6d882ada9c226a4ddf74f225dd227512121c7d9d3b5b1cc7b81b"
+    },
+    {
+      "path": "assets/elden/characters/sheets/zevlor-godly-card.webp",
+      "sha256": "74aabb9696b9fc8ad004ecb4bc52c0d60a27898c716f3ddb70163beecd10c86e",
+      "size": 2669556,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-74aabb9696b9fc8ad004ecb4bc52c0d60a27898c716f3ddb70163beecd10c86e"
+    },
+    {
+      "path": "assets/elden/characters/sheets/zevlor-godly.webp",
+      "sha256": "3ed95e00f84ad10c3ce68a55df2c2da1139b0f8dc76628fa849f7622975e08a1",
+      "size": 2184838,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-3ed95e00f84ad10c3ce68a55df2c2da1139b0f8dc76628fa849f7622975e08a1"
+    },
+    {
+      "path": "assets/elden/characters/sheets/zevlor-original-card.webp",
+      "sha256": "7b6ec66dfa396d223a6e9d654d893ad8b96d71a3dd48cb035e3e6654fe5c04f7",
+      "size": 2260374,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-7b6ec66dfa396d223a6e9d654d893ad8b96d71a3dd48cb035e3e6654fe5c04f7"
+    },
+    {
+      "path": "assets/elden/characters/sheets/zevlor-original.webp",
+      "sha256": "7c0d1bcd84dc411a2a4a3f7003bd8f96e0d5d00841b8c2684abab5332d32c5aa",
+      "size": 1771816,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-7c0d1bcd84dc411a2a4a3f7003bd8f96e0d5d00841b8c2684abab5332d32c5aa"
+    },
+    {
+      "path": "assets/elden/cover.png",
+      "sha256": "bea04586d05d9d85f05cf5639a0bf2c597cfb56b5559bfad4cb1440d5a1ac895",
+      "size": 4673738,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-bea04586d05d9d85f05cf5639a0bf2c597cfb56b5559bfad4cb1440d5a1ac895"
+    },
+    {
+      "path": "assets/elden/npcs/melina.webp",
+      "sha256": "7c475bd1d419c017fdf06c56efb614f32069259af91a30c637e87d729b6c8fdc",
+      "size": 50446,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-7c475bd1d419c017fdf06c56efb614f32069259af91a30c637e87d729b6c8fdc"
+    },
+    {
+      "path": "assets/elden/npcs/miquella.webp",
+      "sha256": "2ae89110fe24028a57b3140d91ccbf43460b78391f92b105ffd8924210961186",
+      "size": 342056,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-2ae89110fe24028a57b3140d91ccbf43460b78391f92b105ffd8924210961186"
+    },
+    {
+      "path": "assets/elden/npcs/roundtable-knight-vyke.webp",
+      "sha256": "cd1d3c65ebca509cc34753214f0367cf05e04c48f89adcf1d75e899e8ffd9b0d",
+      "size": 416472,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-cd1d3c65ebca509cc34753214f0367cf05e04c48f89adcf1d75e899e8ffd9b0d"
+    },
+    {
+      "path": "assets/favicon-180.png",
+      "sha256": "2efa295f8b09ede43448371b0f444e0e69ec715f2c71809d08f8378d97ce71a6",
+      "size": 34836,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-2efa295f8b09ede43448371b0f444e0e69ec715f2c71809d08f8378d97ce71a6"
+    },
+    {
+      "path": "assets/favicon-32.png",
+      "sha256": "96c4c622e86ced647ea973251994a8c1d975f2e9f45d7243400512ce5794d734",
+      "size": 1967,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-96c4c622e86ced647ea973251994a8c1d975f2e9f45d7243400512ce5794d734"
+    },
+    {
+      "path": "assets/favicon-64.png",
+      "sha256": "d0d4cfc305de76bc44b80142f6bd5f46e20e720fe5d02371e043917739dd4395",
+      "size": 6059,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-d0d4cfc305de76bc44b80142f6bd5f46e20e720fe5d02371e043917739dd4395"
+    },
+    {
+      "path": "assets/favicon.ico",
+      "sha256": "236645b8a0c9d78dac6c473498c4f50f9ba39ae49f2231fe53382b591428e3ea",
+      "size": 12675,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-236645b8a0c9d78dac6c473498c4f50f9ba39ae49f2231fe53382b591428e3ea"
+    },
+    {
+      "path": "assets/fonts/NotoSansRunic-Regular.ttf",
+      "sha256": "615b6c1166a8c51816dc1536784acbf486547e3bed03dbfdd70910e10066793b",
+      "size": 55800,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-615b6c1166a8c51816dc1536784acbf486547e3bed03dbfdd70910e10066793b"
+    },
+    {
+      "path": "assets/fonts/OFL.txt",
+      "sha256": "b0fbcb9eaf0f5f415358bfefa5999ee75e18cde4a275b78285b2140a9e381865",
+      "size": 4381,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-b0fbcb9eaf0f5f415358bfefa5999ee75e18cde4a275b78285b2140a9e381865"
+    },
+    {
+      "path": "assets/grimwood/characters/cards/edwin-everbane.png",
+      "sha256": "832c14346a452948719c8bcf8335bbb09bf5c484c97976cc338e7e5ad35ec67b",
+      "size": 3372833,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-832c14346a452948719c8bcf8335bbb09bf5c484c97976cc338e7e5ad35ec67b"
+    },
+    {
+      "path": "assets/grimwood/characters/cards/elior-ilphelkiir.webp",
+      "sha256": "1b82e29ccfb639d168cae47e335e80f2c63b765806e053652a81cbe178bc3489",
+      "size": 162252,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-1b82e29ccfb639d168cae47e335e80f2c63b765806e053652a81cbe178bc3489"
+    },
+    {
+      "path": "assets/grimwood/characters/cards/elior-resurrected.png",
+      "sha256": "4d6ca1ef842a8461c2add45f7a6a3f7fb4dacda4cd68afde2b82c9b050438d25",
+      "size": 2858504,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-4d6ca1ef842a8461c2add45f7a6a3f7fb4dacda4cd68afde2b82c9b050438d25"
+    },
+    {
+      "path": "assets/grimwood/characters/cards/theodas-ilphelkiir.webp",
+      "sha256": "d1f4373281ad62f8690b954eccca60764d0890255beda91d044b06f9e465bd7f",
+      "size": 316044,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-d1f4373281ad62f8690b954eccca60764d0890255beda91d044b06f9e465bd7f"
+    },
+    {
+      "path": "assets/grimwood/characters/cards/unnamed-sorcerer.webp",
+      "sha256": "4b96ad4f0686ca47fcb9ad5b2f55f64cc8e7afcda3f4505b5c4803229426d112",
+      "size": 152706,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-4b96ad4f0686ca47fcb9ad5b2f55f64cc8e7afcda3f4505b5c4803229426d112"
+    },
+    {
+      "path": "assets/grimwood/characters/full/edwin-everbane.png",
+      "sha256": "74baa449b2b7eaa9cd53aef6f4eb399717ec6d94014adc4ca1fc49ca1b63037f",
+      "size": 2467065,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-74baa449b2b7eaa9cd53aef6f4eb399717ec6d94014adc4ca1fc49ca1b63037f"
+    },
+    {
+      "path": "assets/grimwood/characters/full/elior-ilphelkiir.webp",
+      "sha256": "e2012de1ad5a1560e24cadadfb5a2e3f8125009a3147094221a701b8fb6975a7",
+      "size": 161852,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-e2012de1ad5a1560e24cadadfb5a2e3f8125009a3147094221a701b8fb6975a7"
+    },
+    {
+      "path": "assets/grimwood/characters/full/elior-resurrected.png",
+      "sha256": "d196658e7e80c82eb3aea241bc03f2ece996ef593f0833cd4048433bdcb82ce8",
+      "size": 2540012,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-d196658e7e80c82eb3aea241bc03f2ece996ef593f0833cd4048433bdcb82ce8"
+    },
+    {
+      "path": "assets/grimwood/characters/full/theodas-ilphelkiir.webp",
+      "sha256": "ef497b19fd129e3a4cdc7a6854e2e1f7ef11315cc5114cbff73d36b1ca37c06c",
+      "size": 215126,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-ef497b19fd129e3a4cdc7a6854e2e1f7ef11315cc5114cbff73d36b1ca37c06c"
+    },
+    {
+      "path": "assets/grimwood/characters/full/unnamed-sorcerer.webp",
+      "sha256": "5df7fa501621580387de587485261011a494eb59d4f60594a11584dcacfc620f",
+      "size": 173428,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-5df7fa501621580387de587485261011a494eb59d4f60594a11584dcacfc620f"
+    },
+    {
+      "path": "assets/grimwood/characters/sheets/edwin.png",
+      "sha256": "9f8a47fd32b783c67fdc75a66ec86154fa4dc3ac4dd6bbf95a8a8b8799534c94",
+      "size": 3861066,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-9f8a47fd32b783c67fdc75a66ec86154fa4dc3ac4dd6bbf95a8a8b8799534c94"
+    },
+    {
+      "path": "assets/grimwood/characters/sheets/elior.png",
+      "sha256": "2dd58a0fc622f906631ebdd3347f6063adcac5daa5c3734a30b245f82f5d4b44",
+      "size": 3590138,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-2dd58a0fc622f906631ebdd3347f6063adcac5daa5c3734a30b245f82f5d4b44"
+    },
+    {
+      "path": "assets/grimwood/characters/sheets/theodas.png",
+      "sha256": "f2ebb476d71a75ee37fb28b9ff5ecd211f03a7a0b55f87ff9ee1a43afbde507f",
+      "size": 3653107,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-f2ebb476d71a75ee37fb28b9ff5ecd211f03a7a0b55f87ff9ee1a43afbde507f"
+    },
+    {
+      "path": "assets/grimwood/characters/sheets/vaelis.png",
+      "sha256": "5169500baea707e4135b0ec80425c6175356372a090a40d645c4c1e3a3b08e77",
+      "size": 3481379,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-5169500baea707e4135b0ec80425c6175356372a090a40d645c4c1e3a3b08e77"
+    },
+    {
+      "path": "assets/grimwood/npcs/cards/adam-newport.webp",
+      "sha256": "46a868be06f4563635641ba080ca42f9352a9fe23057a07a9b79263592d47f6a",
+      "size": 293416,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-46a868be06f4563635641ba080ca42f9352a9fe23057a07a9b79263592d47f6a"
+    },
+    {
+      "path": "assets/grimwood/npcs/cards/baron-vane-grimwood.webp",
+      "sha256": "b654ce4a1e9ad01530dd4b84625d3abf69f3087afe1f9f36de549452599388e8",
+      "size": 57624,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-b654ce4a1e9ad01530dd4b84625d3abf69f3087afe1f9f36de549452599388e8"
+    },
+    {
+      "path": "assets/grimwood/npcs/cards/charlotte-fleaklight.webp",
+      "sha256": "39fa48242d9d98fbc3abc4e60b1b00d8af1fdb1eef9066509886d548faee4cc3",
+      "size": 109776,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-39fa48242d9d98fbc3abc4e60b1b00d8af1fdb1eef9066509886d548faee4cc3"
+    },
+    {
+      "path": "assets/grimwood/npcs/cards/empior-windveil.webp",
+      "sha256": "ab3aad3c84e72f7a802094717752ab742964804f51832bf60b827b2acfd6f4dc",
+      "size": 284424,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-ab3aad3c84e72f7a802094717752ab742964804f51832bf60b827b2acfd6f4dc"
+    },
+    {
+      "path": "assets/grimwood/npcs/cards/vice-emberclaw.webp",
+      "sha256": "24896e74e05932d93611d24bf6648914e1350f5b312d7853569bcd596240990e",
+      "size": 94658,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-24896e74e05932d93611d24bf6648914e1350f5b312d7853569bcd596240990e"
+    },
+    {
+      "path": "assets/grimwood/npcs/full/adam-newport.webp",
+      "sha256": "43de252e5438b2c2a380f3b0f652f45ce3629036a28318e0bf1a4f77b43b726f",
+      "size": 357194,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-43de252e5438b2c2a380f3b0f652f45ce3629036a28318e0bf1a4f77b43b726f"
+    },
+    {
+      "path": "assets/grimwood/npcs/full/alistair-percival-bartholomew-wrennington.webp",
+      "sha256": "2569ccc3035a07ee892a54518837e1f1554c899bbfa9f2ac0e6188908134abb5",
+      "size": 245206,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-2569ccc3035a07ee892a54518837e1f1554c899bbfa9f2ac0e6188908134abb5"
+    },
+    {
+      "path": "assets/grimwood/npcs/full/baron-vane-grimwood.webp",
+      "sha256": "31bcea74e170d5be0130bbdd7c69b8f822b0c84b5d2ce2c8a56ab876f32db000",
+      "size": 138780,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-31bcea74e170d5be0130bbdd7c69b8f822b0c84b5d2ce2c8a56ab876f32db000"
+    },
+    {
+      "path": "assets/grimwood/npcs/full/charlotte-fleaklight.webp",
+      "sha256": "c6d315ca87bb7de954c30f650f01bfa1f79a8a46b9d833fd53b2358d311e880b",
+      "size": 234430,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-c6d315ca87bb7de954c30f650f01bfa1f79a8a46b9d833fd53b2358d311e880b"
+    },
+    {
+      "path": "assets/grimwood/npcs/full/empior-windveil.webp",
+      "sha256": "8b598ad56769b5d4669c1806b679e2f1dfbf55aedf7024e39969ab02c0d75e1d",
+      "size": 343912,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-8b598ad56769b5d4669c1806b679e2f1dfbf55aedf7024e39969ab02c0d75e1d"
+    },
+    {
+      "path": "assets/grimwood/npcs/full/vice-emberclaw.webp",
+      "sha256": "2bb18595a2dfea8e51af14ab44739cece6a32c5ed7414b53225470b37f56d1e9",
+      "size": 204742,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-2bb18595a2dfea8e51af14ab44739cece6a32c5ed7414b53225470b37f56d1e9"
+    },
+    {
+      "path": "assets/grimwood/npcs/portraits/adam-newport.webp",
+      "sha256": "674de8e094b38ea13121d997f386bc31391d12d8593b467229a7e3a2b604234a",
+      "size": 1908796,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-674de8e094b38ea13121d997f386bc31391d12d8593b467229a7e3a2b604234a"
+    },
+    {
+      "path": "assets/grimwood/npcs/portraits/alistair-percival-bartholomew-wrennington.webp",
+      "sha256": "57bcb1beb22f5936bf30b8c55be4b616e4c9d42206cc2e405c6419a3d56e3c59",
+      "size": 1741654,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-57bcb1beb22f5936bf30b8c55be4b616e4c9d42206cc2e405c6419a3d56e3c59"
+    },
+    {
+      "path": "assets/grimwood/npcs/portraits/baron-vane-grimwood.webp",
+      "sha256": "b175038e163d2abfcac4a7526296d113329b3a75a1c53eedb62aa4a59a12a315",
+      "size": 1606428,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-b175038e163d2abfcac4a7526296d113329b3a75a1c53eedb62aa4a59a12a315"
+    },
+    {
+      "path": "assets/grimwood/npcs/portraits/charlotte-fleaklight.webp",
+      "sha256": "82dd48c78b787342811d0665aa67b99b9a16b5d339543143e497bf928cbaf64e",
+      "size": 1774588,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-82dd48c78b787342811d0665aa67b99b9a16b5d339543143e497bf928cbaf64e"
+    },
+    {
+      "path": "assets/grimwood/npcs/portraits/empior-windveil.webp",
+      "sha256": "edc64e891bd9ed3775340a7376b9a2203803000199eecef4726ab180b1992937",
+      "size": 1878348,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-edc64e891bd9ed3775340a7376b9a2203803000199eecef4726ab180b1992937"
+    },
+    {
+      "path": "assets/grimwood/npcs/portraits/vice-emberclaw.webp",
+      "sha256": "88094aea2ca31f3f5e5a6ef66ddedfa3bae0d2d08646520a269cdb46c30ede61",
+      "size": 1778580,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-88094aea2ca31f3f5e5a6ef66ddedfa3bae0d2d08646520a269cdb46c30ede61"
+    },
+    {
+      "path": "assets/grimwood/npcs/tokens/adam-newport.png",
+      "sha256": "9c653b8d302be5c443d180d3f4d480dc04115048c50e0dc5c54eb0a862f6dcd8",
+      "size": 2496885,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-9c653b8d302be5c443d180d3f4d480dc04115048c50e0dc5c54eb0a862f6dcd8"
+    },
+    {
+      "path": "assets/grimwood/npcs/tokens/alistair-percival-bartholomew-wrennington.png",
+      "sha256": "b4f00bc98dbc5cb6a523f412b000c3310446fa6683ba70e2eb7fc491119a6345",
+      "size": 2494070,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-b4f00bc98dbc5cb6a523f412b000c3310446fa6683ba70e2eb7fc491119a6345"
+    },
+    {
+      "path": "assets/grimwood/npcs/tokens/baron-vane-grimwood.png",
+      "sha256": "5ca66bfb7f000569690d5388ec642dfe4db6d919cc30742cb6b451125bce5914",
+      "size": 2296272,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-5ca66bfb7f000569690d5388ec642dfe4db6d919cc30742cb6b451125bce5914"
+    },
+    {
+      "path": "assets/grimwood/npcs/tokens/charlotte-fleaklight.png",
+      "sha256": "a21871477912a56e0d9320d7caf8eeb0aa8e35d23f4853bd6038df9022e82e32",
+      "size": 2495224,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-a21871477912a56e0d9320d7caf8eeb0aa8e35d23f4853bd6038df9022e82e32"
+    },
+    {
+      "path": "assets/grimwood/npcs/tokens/empior-windveil.png",
+      "sha256": "fec0640291128a08de306b64cfe35f39e489ea5a98428f7604b357d1c12b37a3",
+      "size": 2443948,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-fec0640291128a08de306b64cfe35f39e489ea5a98428f7604b357d1c12b37a3"
+    },
+    {
+      "path": "assets/grimwood/npcs/tokens/vice-emberclaw.png",
+      "sha256": "16e64d0ae9163afb9296eb7b75be86bd87f6975702bc30ec2dc2f57d74738b65",
+      "size": 2214500,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-16e64d0ae9163afb9296eb7b75be86bd87f6975702bc30ec2dc2f57d74738b65"
+    },
+    {
+      "path": "assets/grimwood-manor-hero.webp",
+      "sha256": "2802e66871be4e62a9926ac52505b506096847ae0d31b220d3c76a1ba0304aae",
+      "size": 185820,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-2802e66871be4e62a9926ac52505b506096847ae0d31b220d3c76a1ba0304aae"
+    },
+    {
+      "path": "assets/kingdom-of-valemere-map.webp",
+      "sha256": "76d0b585523d7a5a0df6df36c76281ebec0e72bf9dc17aecd3f53c4392321654",
+      "size": 1015092,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-76d0b585523d7a5a0df6df36c76281ebec0e72bf9dc17aecd3f53c4392321654"
+    },
+    {
+      "path": "assets/nav-icons/echoes.webp",
+      "sha256": "c94e50f1c9e81c1aa189a49261f50874397ca429fa2b59d52855cd0c366e8461",
+      "size": 57420,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-c94e50f1c9e81c1aa189a49261f50874397ca429fa2b59d52855cd0c366e8461"
+    },
+    {
+      "path": "assets/nav-icons/elden.webp",
+      "sha256": "59f19e4f0c4b158427d49d7509f43d114fd54a27abe2fab280459e89b6ad42d8",
+      "size": 9050,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-59f19e4f0c4b158427d49d7509f43d114fd54a27abe2fab280459e89b6ad42d8"
+    },
+    {
+      "path": "assets/nav-icons/grimwood.webp",
+      "sha256": "56e1868008ff0ea6c09182d77509356ee67391b4705e19e08e99f784f1203de1",
+      "size": 59120,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-56e1868008ff0ea6c09182d77509356ee67391b4705e19e08e99f784f1203de1"
+    },
+    {
+      "path": "assets/npcs/amanita.webp",
+      "sha256": "67a7f844eb54a2d47c4b7c857a9c4a8840515bb1a41ebf3383b3e43fedaad4fb",
+      "size": 503576,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-67a7f844eb54a2d47c4b7c857a9c4a8840515bb1a41ebf3383b3e43fedaad4fb"
+    },
+    {
+      "path": "assets/npcs/cards/orthen-solaris.webp",
+      "sha256": "0d39771dc00da23fbd0137bc1fbefb58965e8967723d7fd43460f6f634051990",
+      "size": 93198,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-0d39771dc00da23fbd0137bc1fbefb58965e8967723d7fd43460f6f634051990"
+    },
+    {
+      "path": "assets/npcs/cards/pip.webp",
+      "sha256": "f4da9e3633bd07e4b2803e27441b7d93b63bc0c231c6a2d5544eccb2b4b8af2c",
+      "size": 96696,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-f4da9e3633bd07e4b2803e27441b7d93b63bc0c231c6a2d5544eccb2b4b8af2c"
+    },
+    {
+      "path": "assets/npcs/cards/sebastian.webp",
+      "sha256": "b3169463f676d90ea67306e8caa5edd0682dda4d0f81d4081f45b684cf0a0282",
+      "size": 47694,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-b3169463f676d90ea67306e8caa5edd0682dda4d0f81d4081f45b684cf0a0282"
+    },
+    {
+      "path": "assets/npcs/gerxis-solaris-placeholder.png",
+      "sha256": "149a6c022132927a0cb249a63ffef852f2f12da8ef2855289693d7fcba6710ec",
+      "size": 780949,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-149a6c022132927a0cb249a63ffef852f2f12da8ef2855289693d7fcba6710ec"
+    },
+    {
+      "path": "assets/npcs/gerxis-solaris-silhouette.webp",
+      "sha256": "f4518a43d95c66d1c1919aa3c49e0d81a463e811324d61def7d0f5777f0e0276",
+      "size": 112044,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-f4518a43d95c66d1c1919aa3c49e0d81a463e811324d61def7d0f5777f0e0276"
+    },
+    {
+      "path": "assets/npcs/orthen-solaris.webp",
+      "sha256": "641a9a02218d89ec7255697de64d74bcfcda3e399bb4aac3b727bbdf7428b583",
+      "size": 127664,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-641a9a02218d89ec7255697de64d74bcfcda3e399bb4aac3b727bbdf7428b583"
+    },
+    {
+      "path": "assets/npcs/pip.webp",
+      "sha256": "201676f859ed736cb5217371eb6b4c1c5873b2913bb4c6499b46ddf65492c990",
+      "size": 143916,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-201676f859ed736cb5217371eb6b4c1c5873b2913bb4c6499b46ddf65492c990"
+    },
+    {
+      "path": "assets/npcs/sebastian.webp",
+      "sha256": "b75eae92bf4d3d74d83afecdef9e6b3ce5098fc6b0e105cbf2c3dcbe15dff409",
+      "size": 56356,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-b75eae92bf4d3d74d83afecdef9e6b3ce5098fc6b0e105cbf2c3dcbe15dff409"
+    },
+    {
+      "path": "assets/npcs/tornhornn.webp",
+      "sha256": "9e857547d9ddd3f72625aea534d05ad181464cce86a4d528600e23949eedfd88",
+      "size": 447168,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-9e857547d9ddd3f72625aea534d05ad181464cce86a4d528600e23949eedfd88"
+    },
+    {
+      "path": "assets/orthen-solaris.webp",
+      "sha256": "cb334440e215baeba9c9f5f6657e25401565d20e1c1646b729589c89d41eaca6",
+      "size": 177894,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-cb334440e215baeba9c9f5f6657e25401565d20e1c1646b729589c89d41eaca6"
+    },
+    {
+      "path": "assets/previews/volume-1.webp",
+      "sha256": "34ffa3baa5362313bbf2da5c9c0fe3fce7833f15372a0321758de143c0f7861a",
+      "size": 85598,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-34ffa3baa5362313bbf2da5c9c0fe3fce7833f15372a0321758de143c0f7861a"
+    },
+    {
+      "path": "assets/previews/volume-2.webp",
+      "sha256": "730158d2f5a0f57da4963185856f4c7e6d74ba17e6081677cf9376b26ef31485",
+      "size": 105912,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-730158d2f5a0f57da4963185856f4c7e6d74ba17e6081677cf9376b26ef31485"
+    },
+    {
+      "path": "assets/previews/volume-3.webp",
+      "sha256": "c4d4c1106cd4add743e83f22d0efe2de547a1349dbc2667af8be8004768f3784",
+      "size": 97316,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-c4d4c1106cd4add743e83f22d0efe2de547a1349dbc2667af8be8004768f3784"
+    },
+    {
+      "path": "assets/previews/volume-4.webp",
+      "sha256": "e51e3277e7b6b6122d62b0466e5ffa37cd10340ebaf1451107f1a256fb9c8313",
+      "size": 88426,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-e51e3277e7b6b6122d62b0466e5ffa37cd10340ebaf1451107f1a256fb9c8313"
+    },
+    {
+      "path": "assets/previews/volume-5.webp",
+      "sha256": "2d6049dd7842667e1a5e6ff4416d16700d1b24ad89a5cf55004ae7d6d5b8ddfc",
+      "size": 65598,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-2d6049dd7842667e1a5e6ff4416d16700d1b24ad89a5cf55004ae7d6d5b8ddfc"
+    },
+    {
+      "path": "assets/quest-complete-stamp.png",
+      "sha256": "9b266cbed3b6d599dcf0f2a83b6af090b872b085c3747e8e3ec4db32a04bae06",
+      "size": 518731,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-9b266cbed3b6d599dcf0f2a83b6af090b872b085c3747e8e3ec4db32a04bae06"
+    },
+    {
+      "path": "assets/serpent/shadow-realm.webp",
+      "sha256": "9562d79f0736e4228a787b9e6fd9a70eab53fc9ed7b2993d0d066f28638706dd",
+      "size": 173542,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-9562d79f0736e4228a787b9e6fd9a70eab53fc9ed7b2993d0d066f28638706dd"
+    },
+    {
+      "path": "assets/session-3-home.webp",
+      "sha256": "59ad96cd43696c38a3ba5d1b214bbb16b59eb5d1b77a513d96186b6ec74d674b",
+      "size": 400416,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-59ad96cd43696c38a3ba5d1b214bbb16b59eb5d1b77a513d96186b6ec74d674b"
+    },
+    {
+      "path": "assets/session-5-home.webp",
+      "sha256": "7be6844b653cbcf306f7a248701f0192f85c21ff7b742dffe2d647fe016d56a4",
+      "size": 291442,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-7be6844b653cbcf306f7a248701f0192f85c21ff7b742dffe2d647fe016d56a4"
+    },
+    {
+      "path": "assets/session-5-memory-leoric.webp",
+      "sha256": "46952b67ad127d26d2278ffd2fc99c4fba889e920eabcacb2d03573f37e423d2",
+      "size": 408538,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-46952b67ad127d26d2278ffd2fc99c4fba889e920eabcacb2d03573f37e423d2"
+    },
+    {
+      "path": "assets/session-6-home.webp",
+      "sha256": "45bddf1e0ecfdccdb76acff5c9e8ee487ecf2499c1808eeade3bed41675b6be3",
+      "size": 425694,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-45bddf1e0ecfdccdb76acff5c9e8ee487ecf2499c1808eeade3bed41675b6be3"
+    },
+    {
+      "path": "assets/share-preview.jpg",
+      "sha256": "f679a0b4a9b3d72e21cd62ae610104012b324bcf57db3c4787302fcd29619824",
+      "size": 232563,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-f679a0b4a9b3d72e21cd62ae610104012b324bcf57db3c4787302fcd29619824"
+    },
+    {
+      "path": "assets/site-logo.webp",
+      "sha256": "6aa81f41a82d03e1657de2874a6692879af098c87e246adadb869d615259b4ed",
+      "size": 9124,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-6aa81f41a82d03e1657de2874a6692879af098c87e246adadb869d615259b4ed"
+    },
+    {
+      "path": "biographies.css",
+      "sha256": "e86e7aa504eb6b8cf59b21f5fa517c5c6387cbabefc500a1bf846709e0c4c0e8",
+      "size": 1495,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-e86e7aa504eb6b8cf59b21f5fa517c5c6387cbabefc500a1bf846709e0c4c0e8"
+    },
+    {
+      "path": "biographies.js",
+      "sha256": "18f3aa4114ead1d09be9ea5556c2cc253367996bc27fab85d47e8890a0644f76",
+      "size": 2451,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-18f3aa4114ead1d09be9ea5556c2cc253367996bc27fab85d47e8890a0644f76"
+    },
+    {
+      "path": "character-presentation.css",
+      "sha256": "67a149d36f30eecff463b68cecee679ab6d51514799c167ee5e65e62ee5b3698",
+      "size": 4547,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-67a149d36f30eecff463b68cecee679ab6d51514799c167ee5e65e62ee5b3698"
+    },
+    {
+      "path": "character-presentation.js",
+      "sha256": "ad39d68b8d60256d59fd530bb3050db64f369cb8b85d62a67cac9a7d9625fa1f",
+      "size": 6262,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-ad39d68b8d60256d59fd530bb3050db64f369cb8b85d62a67cac9a7d9625fa1f"
+    },
+    {
+      "path": "chronicle-menu.css",
+      "sha256": "134e47989dd9c4d750ef6387a2987c0f988ec724dc0054e3e8dbef40edc1ad38",
+      "size": 7906,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-134e47989dd9c4d750ef6387a2987c0f988ec724dc0054e3e8dbef40edc1ad38"
+    },
+    {
+      "path": "chronicle-tools.js",
+      "sha256": "a8e68bdbf159e228a6790d2672aec6bcde1a536b2f2b8e5037b92b99ba422abf",
+      "size": 23369,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-a8e68bdbf159e228a6790d2672aec6bcde1a536b2f2b8e5037b92b99ba422abf"
+    },
+    {
+      "path": "collection.css",
+      "sha256": "9016554e055e22cf44aafe78b1ecfd945f8fcb62875fd4e017ed2fdcfe21fa5c",
+      "size": 7848,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-9016554e055e22cf44aafe78b1ecfd945f8fcb62875fd4e017ed2fdcfe21fa5c"
+    },
+    {
+      "path": "collection.js",
+      "sha256": "6ced729728cdc562e41dea64f8b3b1fe9ecc39421900d852a217092fca8cdbfa",
+      "size": 5926,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-6ced729728cdc562e41dea64f8b3b1fe9ecc39421900d852a217092fca8cdbfa"
+    },
+    {
+      "path": "design.css",
+      "sha256": "6fd0a39d10f443ce76f56b60c0d373fe9709dc6dae63312399791fe1912c255b",
+      "size": 23344,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-6fd0a39d10f443ce76f56b60c0d373fe9709dc6dae63312399791fe1912c255b"
+    },
+    {
+      "path": "DESKTOP-EDITION.txt",
+      "sha256": "1e2cfa4a7705dbbfa80dc716d913ff26ef54f11ab1231aee6dd8f02b87f36d69",
+      "size": 80,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-1e2cfa4a7705dbbfa80dc716d913ff26ef54f11ab1231aee6dd8f02b87f36d69"
+    },
+    {
+      "path": "echoes.css",
+      "sha256": "5512c339743df6ee078318ed28cf7d1ec95a48807b5e57128ed582188d7a6180",
+      "size": 28495,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-5512c339743df6ee078318ed28cf7d1ec95a48807b5e57128ed582188d7a6180"
+    },
+    {
+      "path": "echoes.js",
+      "sha256": "38d0e4d1f6aabe894fb977022cce9814433f2bffea291273283af952d4d06e52",
+      "size": 28697,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-38d0e4d1f6aabe894fb977022cce9814433f2bffea291273283af952d4d06e52"
+    },
+    {
+      "path": "elden-sheets.css",
+      "sha256": "499bc9966fa54b580c11a5fc57f857184edb0542c84225c3fc3daf288eef739a",
+      "size": 2439,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-499bc9966fa54b580c11a5fc57f857184edb0542c84225c3fc3daf288eef739a"
+    },
+    {
+      "path": "elden-sheets.js",
+      "sha256": "977312252d2bf0b90c2a842703e02e80063f7a79d2737f5fdd5b54628360d55f",
+      "size": 5020,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-977312252d2bf0b90c2a842703e02e80063f7a79d2737f5fdd5b54628360d55f"
+    },
+    {
+      "path": "elden.css",
+      "sha256": "3f3e99c2207670e6e2c25f8020b06ab1a26b47eb01255684c02b77ed92f888b1",
+      "size": 22871,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-3f3e99c2207670e6e2c25f8020b06ab1a26b47eb01255684c02b77ed92f888b1"
+    },
+    {
+      "path": "elden.js",
+      "sha256": "f3f101aaeed93bd770f90ea65406acb91106b29d58e4ca68d1d8dfa650cb9c02",
+      "size": 24736,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-f3f101aaeed93bd770f90ea65406acb91106b29d58e4ca68d1d8dfa650cb9c02"
+    },
+    {
+      "path": "grimwood-npcs.css",
+      "sha256": "a5fa54528e6b7c08d0d904afd382b93e9f71a2e6aefc7ac321b8b7aeca6027a4",
+      "size": 1749,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-a5fa54528e6b7c08d0d904afd382b93e9f71a2e6aefc7ac321b8b7aeca6027a4"
+    },
+    {
+      "path": "grimwood-npcs.js",
+      "sha256": "23c44d0e2c510c383a09ebbb71f7980053371ddab897635d4a2811bd3f7aaaa4",
+      "size": 34964,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-23c44d0e2c510c383a09ebbb71f7980053371ddab897635d4a2811bd3f7aaaa4"
+    },
+    {
+      "path": "grimwood-sheets.css",
+      "sha256": "2df472633b6de57764827db0aaac66a0a3fa3a8eb0c75d14b22b944fbc750e89",
+      "size": 5352,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-2df472633b6de57764827db0aaac66a0a3fa3a8eb0c75d14b22b944fbc750e89"
+    },
+    {
+      "path": "grimwood-sheets.js",
+      "sha256": "092ea5d490f0f72e67f4e4244760b9e116433852e0741290ca4f1d68dd2978e5",
+      "size": 4753,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-092ea5d490f0f72e67f4e4244760b9e116433852e0741290ca4f1d68dd2978e5"
+    },
+    {
+      "path": "index.html",
+      "sha256": "3e2f35e1384f82b696498352d85e7a61e4e77ed04173847cbc1c39f777ebdc09",
+      "size": 47043,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-3e2f35e1384f82b696498352d85e7a61e4e77ed04173847cbc1c39f777ebdc09"
+    },
+    {
+      "path": "music.js",
+      "sha256": "a289e38f15bc8fca221df393a4e42e6146aa6aa65f87f851c6e33611a9386aba",
+      "size": 17180,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-a289e38f15bc8fca221df393a4e42e6146aa6aa65f87f851c6e33611a9386aba"
+    },
+    {
+      "path": "mystery-character.css",
+      "sha256": "ff058dc3ee58870b5ccbe336a9b8187e19c6d4a6d222199c69b9a29c3770b1bd",
+      "size": 2378,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-ff058dc3ee58870b5ccbe336a9b8187e19c6d4a6d222199c69b9a29c3770b1bd"
+    },
+    {
+      "path": "mystery-character.js",
+      "sha256": "706c8170bbadb51e721566a545c3b2ad652c16b542dbc7483c7f57a139fbecaa",
+      "size": 8735,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-706c8170bbadb51e721566a545c3b2ad652c16b542dbc7483c7f57a139fbecaa"
+    },
+    {
+      "path": "navbar-icons.css",
+      "sha256": "9b9cb85c3291a326165c42a4f8aaaf7a85144bfdf27df4a66a69dded5adacb01",
+      "size": 692,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-9b9cb85c3291a326165c42a4f8aaaf7a85144bfdf27df4a66a69dded5adacb01"
+    },
+    {
+      "path": "npc-archive.css",
+      "sha256": "82b3f93d4a6c78b22e199913341d6038a24b83a74ab115ab298d6ff291a116c3",
+      "size": 4831,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-82b3f93d4a6c78b22e199913341d6038a24b83a74ab115ab298d6ff291a116c3"
+    },
+    {
+      "path": "npc-archive.js",
+      "sha256": "8c49d022b6ea4e995ead35a11cc6a07c8e63cbc28b23db91a5572befdd8761f9",
+      "size": 6993,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-8c49d022b6ea4e995ead35a11cc6a07c8e63cbc28b23db91a5572befdd8761f9"
+    },
+    {
+      "path": "responsive-scale.css",
+      "sha256": "f428bd6ea3358c7cb8a758ab2426284fa0697358bea28f9cf49509fad8fc6cef",
+      "size": 412,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-f428bd6ea3358c7cb8a758ab2426284fa0697358bea28f9cf49509fad8fc6cef"
+    },
+    {
+      "path": "roots-sheets.css",
+      "sha256": "c0e8d7ad82a126fb76c3bbc9d16e32fda85b9fb3ead6a4c7aa87947648591b23",
+      "size": 653,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-c0e8d7ad82a126fb76c3bbc9d16e32fda85b9fb3ead6a4c7aa87947648591b23"
+    },
+    {
+      "path": "roots-sheets.js",
+      "sha256": "377afa1a8b1fc9a3da68db00dd6eb6ed2b854c2a6bbe165e70dac36c3e6db82a",
+      "size": 1529,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-377afa1a8b1fc9a3da68db00dd6eb6ed2b854c2a6bbe165e70dac36c3e6db82a"
+    },
+    {
+      "path": "script.js",
+      "sha256": "813e23c14bb229bbb7f316b9a1b8cdc0bafb5a042fce8ec0d8b76b0f6d8748da",
+      "size": 85822,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-813e23c14bb229bbb7f316b9a1b8cdc0bafb5a042fce8ec0d8b76b0f6d8748da"
+    },
+    {
+      "path": "serpent.css",
+      "sha256": "d39a1c91e0284ba6b85a93428ae6b41e7324bdad75be70aec2421882f2977bb5",
+      "size": 7038,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-d39a1c91e0284ba6b85a93428ae6b41e7324bdad75be70aec2421882f2977bb5"
+    },
+    {
+      "path": "serpent.js",
+      "sha256": "97e20fd244c354cb512c8104955bbafaf6d49958ff35a935e4c49e9a966c27f4",
+      "size": 319,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-97e20fd244c354cb512c8104955bbafaf6d49958ff35a935e4c49e9a966c27f4"
+    },
+    {
+      "path": "style.css",
+      "sha256": "45d37c12d8143fe8c45d2db7cfaa5e0ebea76a69c7127d84199a2361349b812c",
+      "size": 86266,
+      "url": "https://github.com/Tero300722/The-World-Gate/releases/download/content-58.0.0/blob-45d37c12d8143fe8c45d2db7cfaa5e0ebea76a69c7127d84199a2361349b812c"
+    }
+  ],
+  "signature": "CQCAh4FIbWTYhYRhokgjIIpxfIZZti4P6vA2KUzV/J4p0nxL2OyIE1aEXqnPHVppYngNlsgMJlDvgX5XqsjcBw=="
+}
